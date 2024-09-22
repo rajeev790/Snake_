@@ -1,0 +1,1 @@
+pygame==2.1.2  # Or any stable version of pygame
